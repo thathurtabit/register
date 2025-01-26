@@ -1,1 +1,11 @@
-
+{
+    "description": "Github",
+    "repo": "https://github.com/thathurtabit/thathurtabit",
+    "owner": {
+        "username": "thathurtabit",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "thathurtabit.github.io"
+    }
+}
